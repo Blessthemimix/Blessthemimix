@@ -21,7 +21,7 @@
 
 ###
 
-<h4 align="left">I'm mimix from Russian Federation<br><br>- 🔭 I’m currently not working<br>- 📚 I'm currently study at Bryansk State Engineering and Technological University<br>- ⚡ In my free time i learn programing with Python and Go languages currently</h4>
+<h4 align="left">I'm mimix from Russian Federation<br><br>- 🔭 I’m currently not working<br>- <br>-</h4>
 
 ###
 
