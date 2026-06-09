@@ -18,7 +18,7 @@
 
 ###
 
-<h4 align="left">I'm mimix from Russian Federation<br><br>- 🔭 I’m currently not working<br> <br> </h4>
+<h4 align="left">I'm mimix from Russian Federation<br><br>-<br> <br> </h4>
 
 ###
 
